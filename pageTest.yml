@@ -1,0 +1,6 @@
+name: Déploiement Continu
+
+on:
+  push:
+    branches:
+      - master  # Remplacez "master" par le nom de votre branche principale si nécessaire 
